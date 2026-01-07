@@ -1,0 +1,41 @@
+# RSISR Code Links and Resources
+
+This repository provides the collection of publicly available implementations mentioned in our paper:
+
+**Remote Sensing Image Super-Resolution: A Comprehensive Review**
+
+## 📚 Publicly Available Implementations
+
+- HSENet: https://github.com/Shaosifan/HSENet  
+- TransENet: https://github.com/Shaosifan/TransENet  
+- SalDRN: https://github.com/hanlinwu/SalDRN  
+- HAUNet: https://github.com/likakakaka/HAUNet_RSISR  
+- CTN (CTNet): https://github.com/BITszwang/CTNet  
+- CA-FRN (CAFRN): https://github.com/lxy0922/CAFRN  
+- AMFFN: https://github.com/CCRG-XJU/SuperResolution_AMFFN_TGRS2023  
+- DRSR: https://github.com/XY-boy/DRSR  
+- TTST: https://github.com/XY-boy/TTST  
+- ESTNet: https://github.com/PuhongDuan/ESTNet  
+- FeNet: https://github.com/wangzheyuan-666/FeNet  
+- FMSR (FreMamba): https://github.com/XY-boy/FreMamba  
+
+- SGDM: https://github.com/wwangcece/SGDM  
+- EDiffSR: https://github.com/XY-boy/EDiffSR  
+- FastDiffSR: https://github.com/Meng-333/FastDiffSR  
+- DLMSR: https://github.com/lijing28/DLMSR  
+
+- SwinIR (official): https://github.com/JingyunLiang/SwinIR  
+- ESRGAN (official): https://github.com/xinntao/ESRGAN  
+- SRGAN (community impl.): https://github.com/tensorlayer/SRGAN  
+- SRCNN (community impl.): https://github.com/Lornatang/SRCNN-PyTorch  
+- VDSR (community impl.): https://github.com/Lornatang/VDSR-PyTorch  
+
+---
+
+## 📈 Additional Resources
+- Statistical scripts for figure generation will be uploaded after publication.
+
+---
+
+📩 *Maintained by [Your Name], 2026.*
+
